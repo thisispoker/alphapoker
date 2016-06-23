@@ -1,0 +1,29 @@
+Poker Stars $0.50/$1 No Limit Hold'em - 5 players - http://www.handconverter.com/hands/2924567
+The DeucesCracked.com Hand History Converter
+
+BTN: $111.80
+SB: $228.27
+Hero (BB): $100.00
+UTG: $263.44
+CO: $215.85
+
+Pre Flop: ($1.50) Hero is BB with 7c 7d
+3 folds, SB raises to $2.02, Hero calls $1.02
+
+Flop: ($4.04) 8d 7h Tc (2 players)
+SB checks, Hero bets $3, SB raises to $14, Hero calls $11
+
+Turn: ($32.04) 3d (2 players)
+SB bets $26, Hero calls $26
+
+River: ($84.04) 2c (2 players)
+SB bets $186.25 all in, Hero calls $57.98 all in
+
+Final Pot: $200.00
+SB shows Ts Th (three of a kind, Tens)
+Hero shows 7c 7d (three of a kind, Sevens)
+SB wins $197.50
+(Rake: $2.50)
+
+
+

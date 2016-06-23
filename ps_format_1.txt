@@ -1,0 +1,30 @@
+Poker Stars $0.10/$0.25 No Limit Hold'em - 9 players - http://www.handconverter.com/hands/2924558
+The DeucesCracked.com Hand History Converter
+
+Hero (BTN): $25.00
+HellAwaits90 (SB): $25.00
+KRITAYA (BB): $26.80
+Clickmoron (UTG): $44.27
+Ouspenski (UTG+1): $33.41
+pee5i (UTG+2): $25.21
+fred5454 (MP1): $30.26
+ANDI6666612 (MP2): $25.00
+glnzz (CO): $39.05
+
+Pre Flop: ($0.35) Hero is BTN with Kc Kd
+5 folds, glnzz raises to $0.62, Hero raises to $2, 2 folds, glnzz raises to $4.50, Hero raises to $25 all in, glnzz calls $20.50
+
+Flop: ($50.35) Qd 7h 8s (2 players - 1 is all in)
+
+Turn: ($50.35) Qc (2 players - 1 is all in)
+
+River: ($50.35) 5h (2 players - 1 is all in)
+
+Final Pot: $50.35
+Hero shows Kc Kd (two pair, Kings and Queens)
+glnzz shows Ac Ah (two pair, Aces and Queens)
+glnzz wins $48.35
+(Rake: $2.00)
+
+
+
